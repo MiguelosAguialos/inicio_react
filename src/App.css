@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(19, 19, 19);
+    background-color: rgb(42, 42, 42);
 }
 .container{
     max-width: 500px;
-    margin: 30px;
+    margin: 12% 30%;
     overflow: auto;
     min-height: 300px;
     border: 2px solid chartreuse;
