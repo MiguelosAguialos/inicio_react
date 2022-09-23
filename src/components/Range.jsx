@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import './Range.css'
 const Range = () => {
     const [rangeval, setRangeval] = useState(null)
     return (
